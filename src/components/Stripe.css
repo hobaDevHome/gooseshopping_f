@@ -1,0 +1,25 @@
+.FormGroup {
+  margin: 0 0px 20px;
+  padding: 0;
+  border-style: none;
+  background-color: #ebeef8;
+  will-change: opacity, transform;
+  border-radius: 5px;
+  height: 50px;
+}
+
+.FormRow {
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+
+.StripeElement--webkit-autofill {
+  background: transparent !important;
+}
+
+.StripeElement {
+  width: 100%;
+  padding: 11px 15px 11px 0;
+}
